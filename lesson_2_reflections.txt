@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 Git Bash add a hidden .git folder and initializes it with git
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+staging area is a between-place, it has the latest changes that haven't been committed yet. 
