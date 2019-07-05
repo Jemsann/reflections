@@ -10,3 +10,7 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 when looking at git diff (wihtout commit ids) I can see what changes
 are maded in what files, add those files to the staging area and commit them to the repository
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+it allows better handling of errors
